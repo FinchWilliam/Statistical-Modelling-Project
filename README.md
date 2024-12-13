@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+(fill in your description and goals here) -- include a note about citibikes and a link: https://citybik.es/
 
 ## Process
 ### (your step 1)
