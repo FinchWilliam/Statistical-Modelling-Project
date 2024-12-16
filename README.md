@@ -16,7 +16,7 @@ On analysis we found a much more complete set of information (with categories su
 
 Final regression model showed us a a 32% chance of being significant with a insignificant p value and lastly it helped us see that for ever 1 extra bike station we would have a .1859 raise in restaurant star
 
-![image](../images/ols_regression_results.png)
+![image](images/ols_regression_results.png)
 
 now obviously there are many other external factors at play here and we would be able to find many other reasons why the restaurant has those stars.
 
